@@ -1,1 +1,3 @@
 another text file
+
+altered the content
