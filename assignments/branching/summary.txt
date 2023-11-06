@@ -1,0 +1,1 @@
+Branching in git can be used as a tools for collaboration.

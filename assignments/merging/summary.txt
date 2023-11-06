@@ -1,0 +1,1 @@
+Merge is an action of combining 2 different branches. Used to move our work changes from one branch to another branch (usually the main/ master branch)
